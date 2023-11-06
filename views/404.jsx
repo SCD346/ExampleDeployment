@@ -27,21 +27,3 @@ function FourOFour() {
 }
 
 module.exports = FourOFour
-
-module.exports = FourOFour
-
-// const React = require('react')
-// const Default = require('./layouts/default')
-
-// function FourOFour() {
-//   return (
-//     <Default>
-//       <h3>404 Page</h3>
-//       <h5>
-//         This can be built out any number of ways. Note the link back home.
-//       </h5>
-//     </Default>
-//   )
-// }
-
-// module.exports = FourOFour
